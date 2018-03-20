@@ -29,3 +29,4 @@ note                        ### where put ideas, websites
 
 
 first, need to init task project by git tool.
+second, write work_env.sh need to follow this readme.txt.

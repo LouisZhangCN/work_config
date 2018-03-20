@@ -1,3 +1,2 @@
 #!/bin/sh
-mkdir task
-
+mkdir task src doc note tmp
